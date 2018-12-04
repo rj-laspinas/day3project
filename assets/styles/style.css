@@ -1,5 +1,5 @@
 body{
-	background: url(../images/bg4.jpg) no-repeat center center fixed;
+	background: url(../images/bghouse.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -32,11 +32,11 @@ h2{
 /* fourth */
 
 .me {
-	height: 250px;
-	border-radius: 80%;
+	height: 350px;
+	border-radius: 90%;
 	border-style: solid;
 	border-color: silver;
-	margin-top: 80px;
+	margin-top: 60px;
 
 }
 /* fifth */
